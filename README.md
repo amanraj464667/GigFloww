@@ -1,12 +1,23 @@
-# React + Vite
+# 🚀 GigFloww Button Component Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish and responsive **button component library** for the GigFloww platform, built using **React** and **CSS**. This mini project features visually rich buttons with interactive hover/active states and a dynamic 3D animated background.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔘 **3 Styled Buttons**:
+  - **Primary** – Bold gradient button for main actions
+  - **Secondary** – Transparent outline button
+  - **Disabled** – Grayed-out non-interactive button
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🪩 **3D Background Effects**:
+  - Floating animated particles
+  - Gradient glow effects for visual contrast
+
+- 🔁 **Reusable React Component**
+  - Easy to plug into other pages or components
+
+---
+
+
